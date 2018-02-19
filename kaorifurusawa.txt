@@ -1,0 +1,6 @@
+<span id="a">root@kaorifurusawa</span>:<span id="b">~</span><span id="c">$</span> sudo kaorifurusawa.txt<br/><br/>
+> LOAD NEW PROTOCOL<!— laglaglaglaglaglaglaglaglaglaglaglag --><p>>INITIATING_KAORIS_PORTFOLIO_1.0</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>Hi, I’m Kaori, but my name is usually mispronounced as Kayote.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>I’m a physical and digital product designer.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+I’ve worked for<!— slightdelayhere-->, pakible, workhands, and typeamachines<!— longlongcomment --> You can view my work<a href=“pakible.com">here</a> and my behance <a href="http://behance.com">here</a>.
+<p>And if you’d like to get in touch, you can email me at:<a href=“mailto:kaorifurusawa@protonmail.com”>kaorifurusawa@protonmail.com</a>or you can visit my<a href="https://linkedin.com">linkedin</a>.</p>
